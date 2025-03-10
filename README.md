@@ -1,6 +1,7 @@
-"""# Admission Prediction with Logistic Regression
+# Admission Prediction with Logistic Regression
 
 This project implements **logistic regression from scratch** to predict student admission based on given features.
+The dataset is sourced from **Kaggle**.
 
 ## Steps
 1. **Data Loading & Preprocessing**  
@@ -24,17 +25,17 @@ This project implements **logistic regression from scratch** to predict student 
 ## How to Run
 ```bash
 pip install numpy pandas matplotlib scikit-learn
-python admission_prediction.py
+python analysis.py
 ```
 
 # Future Improvements
 
 This section outlines future improvements for the project:
 
-## Add L2 Regularization
+## 1) Add L2 Regularization
 - Implement **L2 Regularization** to enhance the model's generalization and prevent overfitting.
 
-## Experiment with SVM or Neural Networks
+## 2) Experiment with SVM or Neural Networks
 - Explore using **Support Vector Machine (SVM)** with different kernels.
 - Experiment with **Neural Networks (NN)** to further improve the model's performance and accuracy.
 
