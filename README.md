@@ -1,4 +1,4 @@
-readme_content = """# Admission Prediction with Logistic Regression
+"""# Admission Prediction with Logistic Regression
 
 This project implements **logistic regression from scratch** to predict student admission based on given features.
 
@@ -25,6 +25,7 @@ This project implements **logistic regression from scratch** to predict student 
 ```bash
 pip install numpy pandas matplotlib scikit-learn
 python admission_prediction.py
+```
 
 # Future Improvements
 
